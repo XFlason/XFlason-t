@@ -1,39 +1,36 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Portfólio & Contatos</title>
-    <link rel="stylesheet" href="style.css">
+    <title>XFlason T</title>
 </head>
 <body>
-
+    
+</body>
+</html>
+<body>
     <header>
-        <div class="container">
-            <h1>Olá, Eu sou o Desenvolvedor</h1>
-            <p>Construindo experiências digitais modernas e responsivas.</p>
+        <div class="hero">
+            <h1>XFlason T</h1>
+            <div class="subtitle">
+                Música Nerd • Rap • Rock • Pop
+            </div>
+            <p>O XFlason T é reconhecido como o maior cantor de música temática nerd do mundo, sendo pioneiro do gênero no Brasil.</p>
+            <a href="#sobre">Conheça o XFlason T</a>
         </div>
     </header>
 
-    <main class="container">
-        <section class="profile-card">
-            <h2>Vamos nos conectar?</h2>
-            <p>Escolha uma das plataformas abaixo para conversar comigo ou conhecer meu trabalho.</p>
-            
-            <!-- Seção de Links de Contato solicitada -->
-            <div class="contact-links">
-                <a href="#" class="btn-link" data-platform="GitHub">GitHub</a>
-                <a href="#" class="btn-link" data-platform="LinkedIn">LinkedIn</a>
-                <a href="#" class="btn-link" data-platform="WhatsApp">WhatsApp</a>
-                <a href="#" class="btn-link" data-platform="E-mail">E-mail</a>
-            </div>
+    <main>
+        <section id="sobre" class="about">
+            <h2>Sobre o XFlason T</h2>
+            <p>Com uma trajetória de sucesso, o XFlason T foi fundado em 2018 e é composto por Thállys C.</p>
+            <p>O próprio se destaca por mesclar influências de rap, rock e pop, ditar tendências na música nerd nacional e contar com uma comunidade de fãs extremamente dedicada, conhecida como os iLuminados.</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2026 Todos os direitos reservados.</p>
+        ©2026 XFlason T — Todos os direitos reservados.
     </footer>
-
-    <script src="script.js"></script>
 </body>
 </html>
